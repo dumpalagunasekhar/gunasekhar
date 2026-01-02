@@ -18,7 +18,7 @@
 
 ## 🛠 Tech Stack
 
-**Languages:** Java, SQL, JavaScript,Python 
+**Languages:** Java, SQL, JavaScript,Python   
 **Backend:** Spring Boot, Hibernate, REST APIs  
 **Frontend:** HTML, CSS, React  
 **Database:** MySQL  
