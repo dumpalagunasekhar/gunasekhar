@@ -30,7 +30,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| College Project Portal | Platform where 4th-year students upload projects and others can view | Spring Boot, MySQL |
+|      |  |  |
 
 
 ---
